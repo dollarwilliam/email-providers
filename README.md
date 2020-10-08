@@ -18,3 +18,5 @@ There are several lists of webmail providers floating around out there, so we co
 
 - https://github.com/edwin-zvs/email-providers (last pulled 2020-10-08)
 - https://github.com/mauricesvay/free-email-providers (last pulled 2020-10-08)
+- https://github.com/wesbos/burner-email-providers (last pulled 2020-10-08)
+- https://github.com/andreis/disposable (last pulled 2020-10-08)
