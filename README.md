@@ -2,7 +2,13 @@
 
 There are several lists of webmail providers floating around out there, so we combined them all into this one superset, which we use to filter public email providers out of our dataset at [Dollar William](https://www.dollarwilliam.com).
 
-## Source Gists
+## Valid TLDs
+
+- https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+
+## Burner Emails
+
+### Source Gists
 
 - https://gist.github.com/adamloving/4677212 (last pulled 2020-10-08)
 - https://gist.github.com/adamloving/4401361 (last pulled 2020-10-08)
@@ -14,7 +20,7 @@ There are several lists of webmail providers floating around out there, so we co
 - https://gist.github.com/humphreybc/d17e9215530684d6817ebe197c94a76b (last pulled 2020-10-08)
 - https://gist.github.com/jpadilla/8468419 (last pulled 2020-10-08)
 
-## Source Repositories
+### Source Repositories
 
 - https://github.com/edwin-zvs/email-providers (last pulled 2020-10-08)
 - https://github.com/mauricesvay/free-email-providers (last pulled 2020-10-08)
