@@ -6,6 +6,10 @@ There are several lists of webmail providers floating around out there, so we co
 
 - https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 
+## Role-Based Emails
+
+- https://github.com/mixmaxhq/role-based-email-addresses
+
 ## Burner Emails
 
 ### Source Gists
